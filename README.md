@@ -1,6 +1,6 @@
 ### About
 
-Dapp University Simple Blockchain Raffle Ticket Lottery Decentralized Application to run raffles that makes
+Blockchain Raffle Ticket Lottery Decentralized Application to run raffles that makes
 use of Verifiable Random Function (VRF) from Chainlink for reliable fair random numbers. A single ticket is chosen as the 
 winner and receives all the funds in the pool at the end of the raffle/lottery. 
 
